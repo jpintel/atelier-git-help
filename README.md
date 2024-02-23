@@ -7,7 +7,7 @@ Bienvenue dans notre atelier Git ! Ce document vous guidera à travers les diff�
 
 Git est un système de contrôle de version décentralisé qui permet de suivre les modifications apportées aux fichiers. Chaque modification est enregistrée sous forme de "commit", identifié par un SHA unique. Laissez moi vous expliquez un petit plus ! 
 
-Demo de comment Git marche ! 
+[Demo](https://media.discordapp.net/attachments/968976025813938206/1186052810668789790/demo-content-part.webm?ex=65e4e741&is=65d27241&hm=ee1fcaadf7378b0b3622e3e9550a2f45d5c30c00aac8a6b3162533dcfa51d83a&) de comment Git marche ! 
 
 ### Commandes de base :
 
