@@ -79,7 +79,7 @@ git commit
 ```
 
 ### Exemple de conflict editor
-(insérer example conflict editor)
+[demo-conflict-editor](./img/1%20olERc7Z8qOUZFqpxRuut_g.png)
 
 ## 4. Jouer du versionning 
 
